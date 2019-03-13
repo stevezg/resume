@@ -82,7 +82,7 @@ a {
 
 a:hover {
 	cursor: pointer;
-	color: #A0A0A9;
+	color: #FFA500;
 }
 
 .hr-section {
@@ -148,7 +148,7 @@ a:hover {
 }
 
 a:hover > .fa {
-	color: #A0A0A9;
+	color: #FFA500;
 	cursor: pointer;
 }
 
