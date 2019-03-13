@@ -1,0 +1,184 @@
+body {
+	-webkit-font-smoothing: antialiased;
+	font-family:'Droid Sans', 'Open Sans', sans-serif;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	height: 100%;
+}
+
+header {
+	margin-bottom: 20px;
+	background-color: #35404F;
+	width: 100%;
+	height: 180px;
+}
+
+.main {
+	width: 90%;
+	margin: 0 auto;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h1 {
+	padding-top: 25px;
+	margin-top: 0;
+	margin-bottom: 5px;
+	text-align: center;
+	color: #4AAAA5;
+	text-shadow: 1px 1px #7ACCC8;
+	font-weight: 500;
+	font-size: 50px;
+	letter-spacing: 10px;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #60748F;
+	text-shadow: 1px 1px #4AAAA5;
+	font-weight: 500;
+	font-size: 1.4em;
+	letter-spacing: 3px;
+}
+
+h3 {
+	margin-top: 0;
+	margin-bottom: 3px;
+	font-weight: 600;
+	font-size: 1.05em;
+	color: #4c5058;
+}
+
+h4 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 200;
+	font-size: 1em;
+	color: #4c5058;
+}
+
+h5 {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #4c5058;
+	font-size: 0.9em;
+}
+ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+li {
+	color: #4c5058;
+	margin-bottom: 2px;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
+	color: #A0A0A9;
+}
+
+.hr-section {
+	margin-top: 0;
+	margin-bottom: 5px;
+	border-top-color: #4c5058;
+}
+
+.content {
+	width: 100%;
+}
+
+.titles {
+	width: 75%;
+	text-align: left;
+	display: inline-block;
+}
+
+.name {
+	display: inline-block;
+}
+
+.location {
+	display: inline-block;
+}
+
+.position {
+	display: inline-block;
+	font-size: 0.95em;
+	font-style: italic;
+	font-weight: 400;
+}
+
+.dates {
+	width: 25%;
+	text-align: right;
+	display: inline-block;
+}
+
+.bot-row {
+	text-align: center;
+	border-radius: 5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 435px;
+	margin: 0 auto;
+	border: 1px solid #FFFFFF;
+}
+
+.fa {
+	text-align: center;
+	display: inline-block;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.envelope {
+	color: #F5F5F5;
+}
+
+.fa-linkedin {
+	padding-bottom: 6px;
+}
+
+a:hover > .fa {
+	color: #A0A0A9;
+	cursor: pointer;
+}
+
+.linkedin {
+    color: #4078C0;
+}
+
+.github, .gh {
+    color: #A3D39C;
+}
+
+.phone, .dt {
+	color: #E45F56;
+}
+
+.briefcase {
+	color: #60748F;
+}
+
+.angellist {
+	color: #FF7F50;
+}
+
+.gh, .dt {
+	margin-left: 5px;
+	margin-right: 5px;
+	display: inline-block;
+	text-align: left;
+}
+
+.research {
+	font-size: 14px;
+}
