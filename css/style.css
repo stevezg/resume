@@ -82,7 +82,7 @@ a {
 
 a:hover {
   cursor: pointer;
-  color: #ffa500;
+  color: #05c5ff;
 }
 
 .hr-section {
@@ -148,7 +148,7 @@ a:hover {
 }
 
 a:hover > .fa {
-  color: #ffa500;
+  color: #05c5ff;
   cursor: pointer;
 }
 
@@ -167,7 +167,7 @@ a:hover > .fa {
 }
 
 .briefcase {
-  color: #60748f;
+  color: #ffdb00;
 }
 
 .angellist {
