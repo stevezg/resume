@@ -143,10 +143,6 @@ a:hover {
   color: #f5f5f5;
 }
 
-.fa-linkedin {
-  padding-bottom: 6px;
-}
-
 a:hover > .fa {
   color: #05c5ff;
   cursor: pointer;
