@@ -129,6 +129,7 @@ a:hover {
   padding-top: 10px;
   width: 435px;
   margin: 0 auto;
+  border: 1px solid #ffffff;
 }
 
 .fa {
